@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Summer Project/Summer Project.vcxproj" Id="3e79d82b-a1db-476b-b688-e1301305c791" />
+</Solution>
